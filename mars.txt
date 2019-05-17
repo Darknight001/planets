@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+this is a test
+>>>>>>> 725f49b8fbfb7f8dc2b01f8a89897fa7db5f9baa
 Cold and dry, but everything is my favourite color.
 The two moons may be a problem for wolfman.
 But the Mummy will appreciate the lack of humidity
